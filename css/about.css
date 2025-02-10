@@ -1,0 +1,27 @@
+body{
+   
+    
+}
+.section {
+    /* height: 100vh; */
+    background-image: url('/Saske/img/image10.jpg');
+    background-size: cover;
+    color: white;
+    
+    
+}
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    /* height: 100vh; */
+   padding-top: 10px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.title {
+    text-align: center;
+}
+.content_p {
+    text-align: justify;
+}
